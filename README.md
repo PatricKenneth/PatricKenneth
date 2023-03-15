@@ -9,3 +9,6 @@
 <p align="center">
   <a href="https://wa.me/5588988414531" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="PatricKenneth" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/patric-kenneth-abb498214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PatricKenneth" height="30" width="40" /></a>
+</p>
